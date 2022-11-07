@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there 👋 I'am Devang 
 
-<!--
-**Devang-Solanki/Devang-Solanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Instagram Badge](https://img.shields.io/badge/-devangsolanki_-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/devangsolanki_/)](https://instagram.com/devangsolanki_)
+[![Twitter Badge](https://img.shields.io/badge/-devangsolankii-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/devangsolankii)](https://www.twitter.com/devangsolankii)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Devang-Solanki)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Whoami
+
+Hi, I am Devang Solanki. Exploring Web/Android stuffs...
+
+- 🕸️ WebApp / Android Security
+- 🔭 FOSS Enthusiastic
+
+
+
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=Devang-Solanki&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devang-Solanki"/>|
+|---|---|
+
+# Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Zero Click Account Takeover BB Writeup](https://devang-solanki.github.io/others/0_c_account_takeover)
+- [HacktivityCon 2021](https://devang-solanki.github.io/others/hacktivityCon)
+- [SAML 101](https://devang-solanki.github.io/others/SAML)
+- [HaskHell Tryhackme](https://devang-solanki.github.io/tryhackme/haskhell)
+<!-- BLOG-POST-LIST:END -->
+
+	
