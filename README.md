@@ -19,6 +19,8 @@ Hi, I am Devang Solanki. Exploring Web/Android stuffs...
 <img src="https://github-readme-stats.vercel.app/api?username=Devang-Solanki&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devang-Solanki"/>|
 |---|---|
 
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Zero Click Account Takeover BB Writeup](https://devang-solanki.github.io/others/0_c_account_takeover)
@@ -26,5 +28,7 @@ Hi, I am Devang Solanki. Exploring Web/Android stuffs...
 - [SAML 101](https://devang-solanki.github.io/others/SAML)
 - [HaskHell Tryhackme](https://devang-solanki.github.io/tryhackme/haskhell)
 <!-- BLOG-POST-LIST:END -->
+
+
 
 	
