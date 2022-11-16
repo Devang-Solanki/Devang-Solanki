@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=Welcome+to+my+Repo+%F0%9F%91%8B;I%27m%20a%20hacker+%F0%9F%92%80;But%20I%27m+the+good+kind+of+hackers.+And+I%27ve+never+been+a+criminal+%F0%9F%AB%B6"></p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=Welcome+to+my+Repo+%F0%9F%91%8B;I%27m%20a%20hacker+%F0%9F%92%80;But%20I%27m+the+good+kind+of+hackers.+And+I%27ve+never+been+a+criminal+%F0%9F%AB%B6">
 
 
 [![Instagram Badge](https://img.shields.io/badge/-devangsolanki_-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/devangsolanki_/)](https://instagram.com/devangsolanki_)
