@@ -3,8 +3,8 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-devangsolanki_-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/devangsolanki_/)](https://instagram.com/devangsolanki_)
 [![Twitter Badge](https://img.shields.io/badge/-devangsolankii-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/devangsolankii)](https://www.twitter.com/devangsolankii)
+[![Linkedin Badge](https://img.shields.io/badge/-Devang%20Solanki-blue?style=plastic-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devangdsolanki/)](https://www.linkedin.com/in/devangdsolanki/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Devang-Solanki)
-
 
 ## Whoami
 
