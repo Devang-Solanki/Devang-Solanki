@@ -13,7 +13,7 @@ Hi, I am Devang Solanki. Exploring Web/Android stuffs...
 - 🕸️ WebApp / Android Security
 - 🔭 FOSS Enthusiastic
 
-
+[![An image of @devangsolanki's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devangsolanki)](https://holopin.io/@devangsolanki)
 
 ## MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=Devang-Solanki&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devang-Solanki"/>|
