@@ -23,12 +23,11 @@ Hi, I am Devang Solanki. Exploring Web/Android stuffs...
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing Concurrent Tasks with Goroutines and WaitGroups](https://devang-solanki.github.io/others/goroutine_waitgroup)
 - [SSL Unpinning Made Easy](https://devang-solanki.github.io/others/SSL_Unpinning_Made_Easy)
 - [Exploiting Graphql for Fun and Bounties](https://devang-solanki.github.io/others/graphql)
 - [Zero Click Account Takeover BB Writeup](https://devang-solanki.github.io/others/0_c_account_takeover)
-- [HacktivityCon 2021](https://devang-solanki.github.io/others/hacktivityCon)
 - [SAML 101](https://devang-solanki.github.io/others/SAML)
-- [HaskHell Tryhackme](https://devang-solanki.github.io/tryhackme/haskhell)
 <!-- BLOG-POST-LIST:END -->
 
 
